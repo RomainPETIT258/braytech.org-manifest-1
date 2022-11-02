@@ -1276,48 +1276,75 @@
   },
   "178": {
     "checklistHash": 4062796495,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/anchor-of-light-4062796495.jpg"
+    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/anchor-of-light-4062796495.jpg",
+    "extended": {
+      "video": "https://youtu.be/q7mdBqvpB4g?t=411"
+    }
   },
   "179": {
     "checklistHash": 269847098,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/hellmouth-269847098.jpg"
+    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/hellmouth-269847098.jpg",
+    "extended": {
+      "video": "https://youtu.be/q7mdBqvpB4g?t=469"
+    }
   },
   "180": {
     "checklistHash": 957600697,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/archers-line-957600697.jpg"
+    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/archers-line-957600697.jpg",
+    "extended": {
+      "video": "https://youtu.be/q7mdBqvpB4g?t=99"
+    }
   },
   "181": {
     "checklistHash": 2293092716,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/sorrows-harbor-2293092716.jpg"
+    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/sorrows-harbor-2293092716.jpg",
+    "extended": {
+      "video": "https://youtu.be/q7mdBqvpB4g?t=521"
+    }
   },
   "182": {
     "displayProperties": {
       "description": "After completing the sector, proceed to the exit and find the subject on the way out."
     },
     "checklistHash": 2779900411,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-logistics-2779900411.jpg"
+    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-logistics-2779900411.jpg",
+    "extended": {
+      "video": "https://youtu.be/q7mdBqvpB4g"
+    }
   },
   "183": {
     "displayProperties": {
       "description": "Requires a Firewall Data Fragment. Acquire prerequisite through Eris Morn."
     },
     "checklistHash": 3728157446,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-revelation-3728157446.jpg"
+    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-revelation-3728157446.jpg",
+    "extended": {
+      "video": "https://youtu.be/q7mdBqvpB4g?t=550"
+    }
   },
   "184": {
     "displayProperties": {
       "description": "Entering the _Circle of Bones_ via The _Gatehouse_, turn right and proceed to follow the loop around the _Hellmouth_. Before reaching the next junction, turn on your heel and look beneath the platform to find two jade eyes piercing through your Traveler-given light."
     },
     "checklistHash": 3977481189,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/circle-of-bones-3977481189.jpg"
+    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/circle-of-bones-3977481189.jpg",
+    "extended": {
+      "video": "https://youtu.be/q7mdBqvpB4g?t=222"
+    }
   },
   "185": {
     "checklistHash": 1568227000,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/chamber-of-night-1568227000.jpg"
+    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/chamber-of-night-1568227000.jpg",
+    "extended": {
+      "video": "https://youtu.be/q7mdBqvpB4g?t=315"
+    }
   },
   "186": {
     "checklistHash": 2115406343,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/shrine-of-oryx-2115406343.jpg"
+    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/shrine-of-oryx-2115406343.jpg",
+    "extended": {
+      "video": "https://youtu.be/q7mdBqvpB4g?t=135"
+    }
   },
   "187": {
     "checklistHash": 4180769175,
